@@ -1,2 +1,2 @@
 # SpringMvc
-Sample MVC interacting with database , podt new user & retreiving user details
+Sample MVC interacting with database , post new user & retreiving user details
